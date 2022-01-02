@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Image_12" data-name="Image 12" width="40" height="40" transform="translate(-5 13)" fill="#7b7b7b"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_60" data-name="Mask Group 60" transform="translate(5 -13)" clip-path="url(#clip-path)">
+    <g id="faq" transform="translate(-5 13)">
+      <g id="Group_1696" data-name="Group 1696">
+        <path id="Path_1927" data-name="Path 1927" d="M40,27.07a12.959,12.959,0,0,0-9.468-12.459A15.273,15.273,0,1,0,2.118,23.037L.056,30.49,7.51,28.429a15.217,15.217,0,0,0,7.1,2.1A12.934,12.934,0,0,0,33.649,38.2l6.294,1.741L38.2,33.649A12.883,12.883,0,0,0,40,27.07ZM7.88,25.895,3.418,27.129l1.234-4.462-.281-.44A12.925,12.925,0,1,1,8.32,26.176Zm28.7,10.688-3.311-.916-.442.288a10.59,10.59,0,0,1-15.795-5.509A15.3,15.3,0,0,0,30.445,17.034a10.59,10.59,0,0,1,5.509,15.795l-.288.442Zm0,0" fill="#7b7b7b"/>
+      </g>
+      <path id="Path_1928" data-name="Path 1928" d="M14.1,21.172h2.344v2.344H14.1Zm0,0" fill="#7b7b7b"/>
+      <path id="Path_1929" data-name="Path 1929" d="M17.617,11.719a2.32,2.32,0,0,1-.763,1.73L14.1,15.968v2.86h2.344V17l1.991-1.823a4.687,4.687,0,1,0-7.851-3.459H12.93a2.344,2.344,0,1,1,4.688,0Zm0,0" fill="#7b7b7b"/>
+    </g>
+  </g>
+</svg>

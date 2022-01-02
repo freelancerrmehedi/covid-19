@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Image_12" data-name="Image 12" width="40" height="40" transform="translate(-5 12)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_64" data-name="Mask Group 64" transform="translate(5 -12)" clip-path="url(#clip-path)">
+    <g id="Group_1705" data-name="Group 1705">
+      <g id="totural" transform="translate(-5.645 11.355)">
+        <path id="Path_1949" data-name="Path 1949" d="M38.387,4.516H2.9A2.261,2.261,0,0,0,.645,6.774V34.516A2.261,2.261,0,0,0,2.9,36.774H38.387a2.261,2.261,0,0,0,2.258-2.258V6.774a2.261,2.261,0,0,0-2.258-2.258Zm.968,30a.969.969,0,0,1-.968.968H2.9a.969.969,0,0,1-.968-.968v-2.9H39.355Zm0-4.194H1.935V9.677H39.355Zm0-21.935H1.935V6.774A.969.969,0,0,1,2.9,5.806H38.387a.969.969,0,0,1,.968.968Z" fill="#fff"/>
+        <path id="Path_1950" data-name="Path 1950" d="M3.226,7.742h.645a.645.645,0,1,0,0-1.29H3.226a.645.645,0,0,0,0,1.29Z" fill="#fff"/>
+        <path id="Path_1951" data-name="Path 1951" d="M5.806,7.742h.645a.645.645,0,1,0,0-1.29H5.806a.645.645,0,0,0,0,1.29Z" fill="#fff"/>
+        <path id="Path_1952" data-name="Path 1952" d="M8.387,7.742h.645a.645.645,0,0,0,0-1.29H8.387a.645.645,0,0,0,0,1.29Z" fill="#fff"/>
+        <path id="Path_1953" data-name="Path 1953" d="M20.645,13.548a7.1,7.1,0,1,0,7.1,7.1,7.1,7.1,0,0,0-7.1-7.1Zm0,12.9a5.806,5.806,0,1,1,5.806-5.806A5.806,5.806,0,0,1,20.645,26.452Z" fill="#fff"/>
+        <path id="Path_1954" data-name="Path 1954" d="M23.584,20.108l-3.871-2.581a.646.646,0,0,0-1,.537v5.161a.646.646,0,0,0,1,.537l3.871-2.581a.646.646,0,0,0,0-1.074ZM20,22.02V19.27l2.063,1.375Z" fill="#fff"/>
+        <path id="Path_1955" data-name="Path 1955" d="M35.484,32.9H9.677a.645.645,0,0,0-1.29,0H5.806a.645.645,0,1,0,0,1.29H8.387a.645.645,0,0,0,1.29,0H35.484a.645.645,0,0,0,0-1.29Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

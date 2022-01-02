@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Image_12" data-name="Image 12" width="40" height="40" transform="translate(-5 13)" fill="#179ca3"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_58" data-name="Mask Group 58" transform="translate(5 -13)" clip-path="url(#clip-path)">
+    <g id="Instructions" transform="translate(-5 13)">
+      <g id="Group_1582" data-name="Group 1582">
+        <g id="Group_1581" data-name="Group 1581">
+          <path id="Path_1915" data-name="Path 1915" d="M13.333,28.667H12A.667.667,0,0,0,12,30h1.333a.667.667,0,0,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1584" data-name="Group 1584">
+        <g id="Group_1583" data-name="Group 1583">
+          <path id="Path_1916" data-name="Path 1916" d="M32,28.667H16A.667.667,0,0,0,16,30H32a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1586" data-name="Group 1586">
+        <g id="Group_1585" data-name="Group 1585">
+          <path id="Path_1917" data-name="Path 1917" d="M13.333,24.667H12A.667.667,0,0,0,12,26h1.333a.667.667,0,0,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1588" data-name="Group 1588">
+        <g id="Group_1587" data-name="Group 1587">
+          <path id="Path_1918" data-name="Path 1918" d="M32,24.667H16A.667.667,0,0,0,16,26H32a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1590" data-name="Group 1590">
+        <g id="Group_1589" data-name="Group 1589">
+          <path id="Path_1919" data-name="Path 1919" d="M13.333,20.667H12A.667.667,0,0,0,12,22h1.333a.667.667,0,0,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1592" data-name="Group 1592">
+        <g id="Group_1591" data-name="Group 1591">
+          <path id="Path_1920" data-name="Path 1920" d="M32,20.667H16A.667.667,0,0,0,16,22H32a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1594" data-name="Group 1594">
+        <g id="Group_1593" data-name="Group 1593">
+          <path id="Path_1921" data-name="Path 1921" d="M13.333,16.667H12A.667.667,0,1,0,12,18h1.333a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1596" data-name="Group 1596">
+        <g id="Group_1595" data-name="Group 1595">
+          <path id="Path_1922" data-name="Path 1922" d="M32,16.667H16A.667.667,0,0,0,16,18H32a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1598" data-name="Group 1598">
+        <g id="Group_1597" data-name="Group 1597">
+          <path id="Path_1923" data-name="Path 1923" d="M13.333,12.667H12A.667.667,0,0,0,12,14h1.333a.667.667,0,0,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1600" data-name="Group 1600">
+        <g id="Group_1599" data-name="Group 1599">
+          <path id="Path_1924" data-name="Path 1924" d="M32,12.667H16A.667.667,0,0,0,16,14H32a.667.667,0,1,0,0-1.333Z" fill="#179ca3"/>
+        </g>
+      </g>
+      <g id="Group_1701" data-name="Group 1701">
+        <g id="Group_1602" data-name="Group 1602">
+          <g id="Group_1601" data-name="Group 1601">
+            <path id="Path_1925" data-name="Path 1925" d="M36.658,9.958a.63.63,0,0,0-.034-.171c-.007-.021-.013-.042-.022-.063a.666.666,0,0,0-.133-.2L27.135.2a.666.666,0,0,0-.2-.133C26.919.053,26.9.047,26.878.04a.664.664,0,0,0-.173-.035c-.011,0-.024-.005-.039-.005H8a.667.667,0,0,0-.667.667v2H4a.667.667,0,0,0-.667.667v36A.667.667,0,0,0,4,40H32a.667.667,0,0,0,.667-.667V36H36a.667.667,0,0,0,.667-.667V10C36.667,9.985,36.659,9.973,36.658,9.958ZM27.333,2.276l7.057,7.057H27.333Zm4,36.391H4.667V4H7.333V35.333A.667.667,0,0,0,8,36H31.333Zm4-4H8.667V1.333H26V10a.667.667,0,0,0,.667.667h8.667Z" fill="#179ca3"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1604" data-name="Group 1604">
+        <g id="Group_1603" data-name="Group 1603">
+          <path id="Path_1926" data-name="Path 1926" d="M16,6H12a.667.667,0,0,0-.667.667v4a.667.667,0,0,0,.667.667h4a.667.667,0,0,0,.667-.667v-4A.667.667,0,0,0,16,6Zm-.667,4H12.667V7.333h2.667Z" fill="#179ca3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

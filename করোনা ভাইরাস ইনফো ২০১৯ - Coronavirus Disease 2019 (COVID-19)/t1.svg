@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Image_12" data-name="Image 12" width="40" height="40" transform="translate(-5 12)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_63" data-name="Mask Group 63" transform="translate(5 -12)" clip-path="url(#clip-path)">
+    <g id="graph-2" transform="translate(-5 12)">
+      <g id="Group_1704" data-name="Group 1704">
+        <g id="Group_1653" data-name="Group 1653">
+          <g id="Group_1652" data-name="Group 1652">
+            <path id="Path_1946" data-name="Path 1946" d="M10,15.714H1.429A1.429,1.429,0,0,0,0,17.143V38.571A1.429,1.429,0,0,0,1.429,40H10a1.429,1.429,0,0,0,1.429-1.429V17.143A1.429,1.429,0,0,0,10,15.714ZM8.571,37.143H2.857V18.571H8.571Z" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_1655" data-name="Group 1655">
+          <g id="Group_1654" data-name="Group 1654">
+            <path id="Path_1947" data-name="Path 1947" d="M24.286,0H15.714a1.429,1.429,0,0,0-1.429,1.429V38.571A1.429,1.429,0,0,0,15.714,40h8.571a1.429,1.429,0,0,0,1.429-1.429V1.429A1.429,1.429,0,0,0,24.286,0ZM22.857,37.143H17.143V2.857h5.714V37.143Z" fill="#fff"/>
+          </g>
+        </g>
+        <path id="Path_1948" data-name="Path 1948" d="M38.571,11.429H30a1.429,1.429,0,0,0-1.429,1.429V38.571A1.429,1.429,0,0,0,30,40h8.571A1.429,1.429,0,0,0,40,38.571V12.857A1.429,1.429,0,0,0,38.571,11.429ZM37.143,37.143H31.428V14.286h5.714Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
